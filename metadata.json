@@ -1,0 +1,6 @@
+{
+  "name": "Quanttoria — 1:1 Math Mentorship",
+  "description": "Premier 1:1 online math mentorship bridging foundational gaps, decoding the 'why', and transforming math anxiety into unstoppable mastery for Grades 1–10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
